@@ -14,7 +14,7 @@ A v2ray docker image work with nginx which supposes php for openshift v3.
   - CLIENT_SECURITY (default aes-128-gcm)
 - don't need custom domain and ssl certificate
 - only cost 1 pods
-
+aa
 **USE: deploy this image and add default secure route with port 8080 in openshift**
 
 - path to v2ray: https://your.domain/ws/
